@@ -8,6 +8,7 @@ public class Player_Move_Prot : MonoBehaviour
     public bool facingRight = true;
     public int playerJumpPower =1250;
     public float moveX;
+    
     // Start is called before the first frame update
     // void Start()
     // {
